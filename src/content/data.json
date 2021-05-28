@@ -14,7 +14,7 @@
                         "Zootecnia",
                         "Medicina Veterinaria"
                     ],
-                    "descricao": "<p></p>",
+                    "descricao": null,
                     "imagens": [
                         "cca_01.jpg"
                     ]
@@ -33,7 +33,7 @@
                         "Odontologia",
                         "Biomedicina"
                     ],
-                    "descricao": "<p></p>",
+                    "descricao": null,
                     "imagens": [
                         "ccbbaixo_01.jpg",
                         "ccbcima_01.jpg",
@@ -53,7 +53,7 @@
                         "Matemática",
                         "Quimica"
                     ],
-                    "descricao": "<p>O Centro de Ciências Exatas (CCE) tem atualmente em torno de 227 docentes, 65 funcionários técnico-administrativos. Atende ainda cerca de 21.600 alunos de diversos cursos de graduação e pós-graduação da UEL matriculados nas diferentes disciplinas e turmas.</p>",
+                    "descricao": "O Centro de Ciências Exatas (CCE) tem atualmente em torno de 227 docentes, 65 funcionários técnico-administrativos. Atende ainda cerca de 21.600 alunos de diversos cursos de graduação e pós-graduação da UEL matriculados nas diferentes disciplinas e turmas.",
                     "imagens": [
                         "cce_01.jpg",
                         "cce_02.jpg",
@@ -78,7 +78,7 @@
                         "Pedagogia",
                         "Música"
                     ],
-                    "descricao": "<p>O Centro de Educação, Comunicação e Artes nasceu da junção do C. E. - Centro de Educação e do C.C.A. - Centro de Comunicação e Artes. Desde a criação do CECA, o Departamento de Educação Física fazia parte da sua composição. Em 1986, extinguiu-se o Departamento de Educação Física do CECA e criou o Centro de Educação Física e Desportos, assim dá nova configuração ao Centro de Educação, Comunicação e Artes com a divisão nos seguintes departamentos: Educação, Comunicação, Arte e Biblioteconomia. Em 1996, pela Resolução nº 3098, o Departamento de Biblioteconomia passa a ser chamado de Departamento de Ciência da Informação.</p>",
+                    "descricao": "O Centro de Educação, Comunicação e Artes nasceu da junção do C. E. - Centro de Educação e do C.C.A. - Centro de Comunicação e Artes. Desde a criação do CECA, o Departamento de Educação Física fazia parte da sua composição. Em 1986, extinguiu-se o Departamento de Educação Física do CECA e criou o Centro de Educação Física e Desportos, assim dá nova configuração ao Centro de Educação, Comunicação e Artes com a divisão nos seguintes departamentos: Educação, Comunicação, Arte e Biblioteconomia. Em 1996, pela Resolução nº 3098, o Departamento de Biblioteconomia passa a ser chamado de Departamento de Ciência da Informação.",
                     "imagens": [
                         "cecacima_01.jpg",
                         "cecamusica_02.jpg"
@@ -93,7 +93,7 @@
                         "Educação Física",
                         "Esporte"
                     ],
-                    "descricao": "<p>Com a criação da Universidade Estadual de Londrina em 1971, implantou-se o Curso de Graduação em Educação Física, vinculado ao Centro de Educação. Sua primeira turma iniciou as atividades letivas em fevereiro de 1972, quando foram começadas as obras do atual Centro. Em 1976, o governo concedeu o reconhecimento do Curso de Graduação em Educação Física e Técnica Desportiva. Em 1972 foi criado o Setor Desportivo que em junho de 1978 passou a denominar-se Núcleo Esportivo. Em 1980, foi criado o Curso de Pós-Graduação, em nível de Especialização em Ciência e Técnica do Treinamento Desportivo, aproveitando o potencial dos recursos treinados no país e no exterior.</p><p>O atendimento ao curso de graduação e pós-graduação em Educação Física, a oferta da Prática de Educação Física a todos os demais cursos de graduação da Universidade e o atendimento à comunidade motivou a criação do CENTRO DE EDUCAÇÃO FÍSICA e DESPORTOS em 10 de outubro de 1986. Em 1994 foi implantado o Campus Avançado na cidade de Colorado - PR, através do Consórcio Intermunicipal de Apoio Integrado à Extensão da Universidade Estadual de Londrina - CONSUEL, iniciando o oferecimento do Curso de Graduação em Educação Física. Em 1998 foi implantado o Curso de Bacharelado em Ciência do Esporte, iniciando suas atividades letivas em fevereiro de 1999.</p>",
+                    "descricao": "Com a criação da Universidade Estadual de Londrina em 1971, implantou-se o Curso de Graduação em Educação Física, vinculado ao Centro de Educação. Sua primeira turma iniciou as atividades letivas em fevereiro de 1972, quando foram começadas as obras do atual Centro. Em 1976, o governo concedeu o reconhecimento do Curso de Graduação em Educação Física e Técnica Desportiva. Em 1972 foi criado o Setor Desportivo que em junho de 1978 passou a denominar-se Núcleo Esportivo. Em 1980, foi criado o Curso de Pós-Graduação, em nível de Especialização em Ciência e Técnica do Treinamento Desportivo, aproveitando o potencial dos recursos treinados no país e no exterior.O atendimento ao curso de graduação e pós-graduação em Educação Física, a oferta da Prática de Educação Física a todos os demais cursos de graduação da Universidade e o atendimento à comunidade motivou a criação do CENTRO DE EDUCAÇÃO FÍSICA e DESPORTOS em 10 de outubro de 1986. Em 1994 foi implantado o Campus Avançado na cidade de Colorado - PR, através do Consórcio Intermunicipal de Apoio Integrado à Extensão da Universidade Estadual de Londrina - CONSUEL, iniciando o oferecimento do Curso de Graduação em Educação Física. Em 1998 foi implantado o Curso de Bacharelado em Ciência do Esporte, iniciando suas atividades letivas em fevereiro de 1999.",
                     "imagens": [
                         "cefe_01.jpg",
                         "cefequadra_01.jpg"
@@ -112,7 +112,7 @@
                         "Ciências Economicas",
                         "Secretariado Executivo"
                     ],
-                    "descricao": "<p></p>",
+                    "descricao": null,
                     "imagens": [
                         "cesa_01.jpg",
                         "cesa_02.jpg"
@@ -129,7 +129,7 @@
                         "Filosofia",
                         "História"
                     ],
-                    "descricao": "<p>O Centro de Letras e Ciências Humanas iniciou suas atividades em 1973 com os cursos de História e Letras.</p><p>Atualmente, o CLCH é formado por cinco graduações, nove especializações, três mestrados e dois doutorados. As atividades do CLCH são atendidas por 39 Funcionários e 141 Docentes dos quais 47% são doutores, 42% mestres, 6,5% especialistas e 3,8% graduados.</p><p>O Museu Histórico Padre Carlos Weiss foi inaugurado em 18 de setembro de 1970, na antiga Faculdade de Filosofia, Ciências e Letras de Londrina e a partir de 1974 tornou-se órgão suplementar da Universidade Estadual de Londrina, vinculado academicamente ao Centro de Letras e Ciências Humanas e tem como missão o desenvolvimento de ações de resgate, preservação e divulgação do patrimônio cultural de Londrina e região, procurando tornar visível a trajetória histórica de sua sociedade; dar suporte ao ensino, pesquisa e extensão e promover a reflexão crítica da realidade histórica, contribuindo para a renovação e melhoria da qualidade de vida e da dimensão cultural da população.</p>",
+                    "descricao": "O Centro de Letras e Ciências Humanas iniciou suas atividades em 1973 com os cursos de História e Letras.Atualmente, o CLCH é formado por cinco graduações, nove especializações, três mestrados e dois doutorados. As atividades do CLCH são atendidas por 39 Funcionários e 141 Docentes dos quais 47% são doutores, 42% mestres, 6,5% especialistas e 3,8% graduados.O Museu Histórico Padre Carlos Weiss foi inaugurado em 18 de setembro de 1970, na antiga Faculdade de Filosofia, Ciências e Letras de Londrina e a partir de 1974 tornou-se órgão suplementar da Universidade Estadual de Londrina, vinculado academicamente ao Centro de Letras e Ciências Humanas e tem como missão o desenvolvimento de ações de resgate, preservação e divulgação do patrimônio cultural de Londrina e região, procurando tornar visível a trajetória histórica de sua sociedade; dar suporte ao ensino, pesquisa e extensão e promover a reflexão crítica da realidade histórica, contribuindo para a renovação e melhoria da qualidade de vida e da dimensão cultural da população.",
                     "imagens": [
                         "cch_02.jpg",
                         "cch_03.jpg",
@@ -147,7 +147,7 @@
                         "Engenharia Eletrica",
                         "Engenharia Civil"
                     ],
-                    "descricao": "<p>Em 1971 foi criada o Centro de Tecnologia, 1977 inclui-se Centro de Ciências Rurais e de Tecnologia com a agregação do Centro de Ciências Rurais e do Centro de Tecnologia e em 1983 inicia o Centro de Tecnologia e Urbanismo. Onde oferece 3 cursos de graduações, respectivamente, Curso de Engenharia Civil implantado em 1972, Arquitetura e Urbanismo em 1979 e Engenharia Elétrica em 1997.</p>",
+                    "descricao": "Em 1971 foi criada o Centro de Tecnologia, 1977 inclui-se Centro de Ciências Rurais e de Tecnologia com a agregação do Centro de Ciências Rurais e do Centro de Tecnologia e em 1983 inicia o Centro de Tecnologia e Urbanismo. Onde oferece 3 cursos de graduações, respectivamente, Curso de Engenharia Civil implantado em 1972, Arquitetura e Urbanismo em 1979 e Engenharia Elétrica em 1997.",
                     "imagens": [
                         "ctubaixo_01.jpg",
                         "ctucima_01.jpg"
@@ -164,7 +164,7 @@
                     "lat": -23.3251823,
                     "lng": -51.2043815,
                     "titulo": "Anfiteatro CCH",
-                    "descricao": "<p>Denominada \"Anfiteatro Maior do CCH\", devidamente equipada com aparelhos de som / TV / vídeo / retroprojetor, para 300 (trezentas) pessoas, localizada no Bloco A.</p>",
+                    "descricao": "Denominada \"Anfiteatro Maior do CCH\", devidamente equipada com aparelhos de som / TV / vídeo / retroprojetor, para 300 (trezentas) pessoas, localizada no Bloco A.",
                     "imagens": [
                         "anfiteatro_cch_01.jpg"
                     ]
@@ -174,7 +174,7 @@
                     "lat": -23.325569,
                     "lng": -51.2089804,
                     "titulo": "Programa de Desenvolvimento Educacional",
-                    "descricao": "<p>O prédio de 1.305 metros quadrados de construção possui: 2 pavimentos e conta com 1 anfiteatro de 200 lugares, 1 plataforma elevatória, 4 salas de aula equipadas com sistema de som e recursos áudio visuais, 2 laboratórios de informática com 30 computadores cada, além de 1 sala de reunião e 2 salas de orientação.</p><p>O PDE é uma política pública de Estado regulamentado pela Lei Complementar nº 130, de 14 de julho de 2010 que estabelece o diálogo entre os professores do ensino superior e os da educação básica, através de atividades teórico-práticas orientadas, tendo como resultado a produção de conhecimento e mudanças qualitativas na prática escolar da escola pública paranaense. Iniciado em 2007, o PDE está em sua sexta edição.</p><p>São aproximadamente:</p><ul><li>7.200 professores egressos;</li><li>1.800 professores no segundo ano do Programa;</li><li>2.000 professores iniciando o primeiro ano do Programa;</li></ul><p>Totalizando 11.000 professores</p>",
+                    "descricao": "O prédio de 1.305 metros quadrados de construção possui: 2 pavimentos e conta com 1 anfiteatro de 200 lugares, 1 plataforma elevatória, 4 salas de aula equipadas com sistema de som e recursos áudio visuais, 2 laboratórios de informática com 30 computadores cada, além de 1 sala de reunião e 2 salas de orientação.O PDE é uma política pública de Estado regulamentado pela Lei Complementar nº 130, de 14 de julho de 2010 que estabelece o diálogo entre os professores do ensino superior e os da educação básica, através de atividades teórico-práticas orientadas, tendo como resultado a produção de conhecimento e mudanças qualitativas na prática escolar da escola pública paranaense. Iniciado em 2007, o PDE está em sua sexta edição.São aproximadamente:<ul><li>7.200 professores egressos;</li><li>1.800 professores no segundo ano do Programa;</li><li>2.000 professores iniciando o primeiro ano do Programa;</li></ul>Totalizando 11.000 professores",
                     "imagens": [
                         "pde_01.jpg",
                         "pde_02.jpg",
@@ -209,7 +209,7 @@
                     "lat": -23.3257199,
                     "lng": -51.19607,
                     "titulo": "Anfiteatro Cyro Grossi ( Pinicão - CCB)",
-                    "descricao": "<p>Além do RU e dos quiósques no calçadão, também é uma opção o Papo Cabeça. O Papo Cabeça é um restaurante, bar e café roastery movimentada em frente a UEL. Com fachada envidraçada em dois lados, com vista para o Campus.</p>",
+                    "descricao": "Além do RU e dos quiósques no calçadão, também é uma opção o Papo Cabeça. O Papo Cabeça é um restaurante, bar e café roastery movimentada em frente a UEL. Com fachada envidraçada em dois lados, com vista para o Campus.",
                     "imagens": [
                         "pinicao_01.jpg"
                     ]
@@ -225,7 +225,7 @@
                     "lat": -23.3262665,
                     "lng": -51.1997533,
                     "titulo": "Ponto de venda próximo ao CTU",
-                    "descricao": "<p>Dentro da Universidade, temos vários quiósques que vendem lanches e salgados para a comunidade universitária. Um desses locais é o ponto de venda perto do CTU. É um ótimo local alternativo para o almoço ou para o cafézinho, onde você pode se reunir com os amigos e jogar conversa fora.</p>",
+                    "descricao": "Dentro da Universidade, temos vários quiósques que vendem lanches e salgados para a comunidade universitária. Um desses locais é o ponto de venda perto do CTU. É um ótimo local alternativo para o almoço ou para o cafézinho, onde você pode se reunir com os amigos e jogar conversa fora.",
                     "imagens": []
                 },
                 {
@@ -233,7 +233,7 @@
                     "lat": -23.3264962,
                     "lng": -51.1960133,
                     "titulo": "Cantina próxima ao CCB",
-                    "descricao": "<p>Dentro da Universidade, temos vários quiósques que vendem lanches e salgados para a comunidade universitária. Um desses locais é a Cantina do CCB. É um ótimo local alternativo para o almoço ou para o cafézinho, onde você pode se reunir com os amigos e jogar conversa fora.</p>",
+                    "descricao": "Dentro da Universidade, temos vários quiósques que vendem lanches e salgados para a comunidade universitária. Um desses locais é a Cantina do CCB. É um ótimo local alternativo para o almoço ou para o cafézinho, onde você pode se reunir com os amigos e jogar conversa fora.",
                     "imagens": [
                         "ccbcantina_01.jpg",
                         "ccbcantina_02.jpg",
@@ -245,7 +245,7 @@
                     "lat": -23.3254383,
                     "lng": -51.1936678,
                     "titulo": "Restaurante Papo Cabeça",
-                    "descricao": "<p>Além do RU e dos quiósques no calçadão, também é uma opção o Papo Cabeça. O Papo Cabeça é um restaurante, bar e café roastery movimentada em frente a UEL. Com fachada envidraçada em dois lados, com vista para o Campus.</p>",
+                    "descricao": "Além do RU e dos quiósques no calçadão, também é uma opção o Papo Cabeça. O Papo Cabeça é um restaurante, bar e café roastery movimentada em frente a UEL. Com fachada envidraçada em dois lados, com vista para o Campus.",
                     "imagens": [
                         "papo_01.jpg"
                     ]
@@ -255,7 +255,7 @@
                     "lat": -23.3260144,
                     "lng": -51.2055865,
                     "titulo": "Restaurante e Lanchonete Pinguim",
-                    "descricao": "<p>Dentro da Universidade, temos vários quiósques que vendem lanches e salgados para a comunidade universitária. Um desses locais é o Pinguim do CESA. É um ótimo local alternativo para o almoço ou para o cafézinho, onde você pode se reunir com os amigos e jogar conversa fora.</p>",
+                    "descricao": "Dentro da Universidade, temos vários quiósques que vendem lanches e salgados para a comunidade universitária. Um desses locais é o Pinguim do CESA. É um ótimo local alternativo para o almoço ou para o cafézinho, onde você pode se reunir com os amigos e jogar conversa fora.",
                     "imagens": [
                         "cecacantina_01.jpg",
                         "cecacantina_02.jpg"
@@ -266,7 +266,7 @@
                     "lat": -23.3253507,
                     "lng": -51.2017474,
                     "titulo": "Restaurante Universitário",
-                    "descricao": "<p>Todos os estudantes e funcionários da UEL podem se alimentar no RU, tanto no almoço quanto na janta. O cardápio muda todo dia e todo domingo o <a href='http://www.uel.br/ru/pages/cardapio.php' target='_blank'>site da UEL</a> é atualizado com o menu semanal.</p>",
+                    "descricao": "Todos os estudantes e funcionários da UEL podem se alimentar no RU, tanto no almoço quanto na janta. O cardápio muda todo dia e todo domingo o <a href='http://www.uel.br/ru/pages/cardapio.php' target='_blank'>site da UEL</a> é atualizado com o menu semanal.",
                     "imagens": [
                         "ru_01.jpg",
                         "ru_02.jpg"
@@ -283,7 +283,7 @@
                     "lat": -23.3235958,
                     "lng": -51.2077105,
                     "titulo": "Agência de Inovação Tecnologica",
-                    "descricao": "<p>Agência de Inovação Tecnológica da Universidade Estadual de Londrina (AINTEC) foi criada em 17 de abril de 2008 a partir da resolução do Conselho Universitário nº 065/2008, em atendimento à Lei de Inovação (Lei nº 10.973/2004).</p><p>Em 2008, a AINTEC incorporou a Incubadora Internacional de Empresas de Base Tecnológica da UEL (INTUEL) criada em 2000; o Escritório de Propriedade Intelectual (EPI), criado em 2003; e o Escritório de Transferência de Tecnologia (ETT), criada também em 2003 pela Pró-reitoria de Pesquisa e Pró-graduação (PROPPG).</p><p>A AINTEC tem como objetivo gerir a política de inovação tecnológica da UEL, identificando, protegendo e transferindo as criações geradas na universidade para a sociedade e o mercado, além de atender suas demandas tecnológicas.</p><p>Atualmente, as quatro unidades da AINTEC, a Incubadora Internacional de Empresas de Base Tecnológica (INTUEL), o Escritório de Propriedade Intelectual (EPI), o Escritório de Transferência de Tecnologia (ETT) e o Escritório de Design (EDN) desenvolvem, em conjunto com a UEL e com seus parceiros, ações para transferir para a sociedade conhecimentos e tecnologia que resultem em inovações, ao mesmo tempo em que procura atender suas demandas sociais e de mercado.</p>",
+                    "descricao": "Agência de Inovação Tecnológica da Universidade Estadual de Londrina (AINTEC) foi criada em 17 de abril de 2008 a partir da resolução do Conselho Universitário nº 065/2008, em atendimento à Lei de Inovação (Lei nº 10.973/2004).Em 2008, a AINTEC incorporou a Incubadora Internacional de Empresas de Base Tecnológica da UEL (INTUEL) criada em 2000; o Escritório de Propriedade Intelectual (EPI), criado em 2003; e o Escritório de Transferência de Tecnologia (ETT), criada também em 2003 pela Pró-reitoria de Pesquisa e Pró-graduação (PROPPG).A AINTEC tem como objetivo gerir a política de inovação tecnológica da UEL, identificando, protegendo e transferindo as criações geradas na universidade para a sociedade e o mercado, além de atender suas demandas tecnológicas.Atualmente, as quatro unidades da AINTEC, a Incubadora Internacional de Empresas de Base Tecnológica (INTUEL), o Escritório de Propriedade Intelectual (EPI), o Escritório de Transferência de Tecnologia (ETT) e o Escritório de Design (EDN) desenvolvem, em conjunto com a UEL e com seus parceiros, ações para transferir para a sociedade conhecimentos e tecnologia que resultem em inovações, ao mesmo tempo em que procura atender suas demandas sociais e de mercado.",
                     "imagens": [
                         "aintec_01.jpg"
                     ]
@@ -293,7 +293,7 @@
                     "lat": -23.3262484,
                     "lng": -51.2004361,
                     "titulo": "Biblioteca Central",
-                    "descricao": "<p>1972 - Criação da Biblioteca Central à Resolução 123/72</p><p>1981 - Em decorrência de uma nova estrutura organizacional, foram unificadas as bibliotecas setoriais localizadas no campus universitário.</p><p>O Sistema de Bibliotecas da UEL (SB/UEL) é coordenado pela Biblioteca Central (BC), que é órgão de Apoio da UEL, vinculado administrativamente à Reitoria, por delegação ao Vice-Reitor. É composto por cinco unidades: Biblioteca Central (BC), Biblioteca Setorial do Centro de Ciências da Saúde (BS/CCS), Biblioteca Setorial da Clínica Odontológica Universitária (BS/COU), Biblioteca Setorial do Escritório de Aplicação de Assuntos Jurídicos (BS/EAAJ) e Biblioteca Setorial de Ciências Humanas (BS/CH).</p><p>A missão do Sistema de Bibliotecas é:</p><p>\"Promover o acesso, a recuperação e a transferência da informação para toda a comunidade universitária, de forma atualizada, ágil e qualificada, visando contribuir para a formação profissional do cidadão, colaborando, dessa forma, no desenvolvimento científico, tecnológico e cultural da sociedade como um todo\".</p>",
+                    "descricao": "1972 - Criação da Biblioteca Central à Resolução 123/721981 - Em decorrência de uma nova estrutura organizacional, foram unificadas as bibliotecas setoriais localizadas no campus universitário.O Sistema de Bibliotecas da UEL (SB/UEL) é coordenado pela Biblioteca Central (BC), que é órgão de Apoio da UEL, vinculado administrativamente à Reitoria, por delegação ao Vice-Reitor. É composto por cinco unidades: Biblioteca Central (BC), Biblioteca Setorial do Centro de Ciências da Saúde (BS/CCS), Biblioteca Setorial da Clínica Odontológica Universitária (BS/COU), Biblioteca Setorial do Escritório de Aplicação de Assuntos Jurídicos (BS/EAAJ) e Biblioteca Setorial de Ciências Humanas (BS/CH).A missão do Sistema de Bibliotecas é:\"Promover o acesso, a recuperação e a transferência da informação para toda a comunidade universitária, de forma atualizada, ágil e qualificada, visando contribuir para a formação profissional do cidadão, colaborando, dessa forma, no desenvolvimento científico, tecnológico e cultural da sociedade como um todo\".",
                     "imagens": [
                         "bc_01.jpg",
                         "bc_02.jpg"
@@ -304,7 +304,7 @@
                     "lat": -23.3250916,
                     "lng": -51.1998782,
                     "titulo": "Bancos",
-                    "descricao": "<p>Aqui ficam os bancos da UEL. No momento, os únicos disponíveis são Caixa e Itaú.</p>",
+                    "descricao": "Aqui ficam os bancos da UEL. No momento, os únicos disponíveis são Caixa e Itaú.",
                     "imagens": [
                         "itau_01.jpg",
                         "caixa_01.jpg"
@@ -315,7 +315,7 @@
                     "lat": -23.3260088,
                     "lng": -51.2063647,
                     "titulo": "Biblioteca Setorial do CCH",
-                    "descricao": "<p>1972 - Criação da Biblioteca Central à Resolução 123/72</p><p>1981 - Em decorrência de uma nova estrutura organizacional, foram unificadas as bibliotecas setoriais localizadas no campus universitário.</p><p>O Sistema de Bibliotecas da UEL (SB/UEL) é coordenado pela Biblioteca Central (BC), que é órgão de Apoio da UEL, vinculado administrativamente à Reitoria, por delegação ao Vice-Reitor. É composto por cinco unidades: Biblioteca Central (BC), Biblioteca Setorial do Centro de Ciências da Saúde (BS/CCS), Biblioteca Setorial da Clínica Odontológica Universitária (BS/COU), Biblioteca Setorial do Escritório de Aplicação de Assuntos Jurídicos (BS/EAAJ) e Biblioteca Setorial de Ciências Humanas (BS/CH).</p><p>A missão do Sistema de Bibliotecas é:</p><p>\"Promover o acesso, a recuperação e a transferência da informação para toda a comunidade universitária, de forma atualizada, ágil e qualificada, visando contribuir para a formação profissional do cidadão, colaborando, dessa forma, no desenvolvimento científico, tecnológico e cultural da sociedade como um todo\".</p>",
+                    "descricao": "1972 - Criação da Biblioteca Central à Resolução 123/721981 - Em decorrência de uma nova estrutura organizacional, foram unificadas as bibliotecas setoriais localizadas no campus universitário.O Sistema de Bibliotecas da UEL (SB/UEL) é coordenado pela Biblioteca Central (BC), que é órgão de Apoio da UEL, vinculado administrativamente à Reitoria, por delegação ao Vice-Reitor. É composto por cinco unidades: Biblioteca Central (BC), Biblioteca Setorial do Centro de Ciências da Saúde (BS/CCS), Biblioteca Setorial da Clínica Odontológica Universitária (BS/COU), Biblioteca Setorial do Escritório de Aplicação de Assuntos Jurídicos (BS/EAAJ) e Biblioteca Setorial de Ciências Humanas (BS/CH).A missão do Sistema de Bibliotecas é:\"Promover o acesso, a recuperação e a transferência da informação para toda a comunidade universitária, de forma atualizada, ágil e qualificada, visando contribuir para a formação profissional do cidadão, colaborando, dessa forma, no desenvolvimento científico, tecnológico e cultural da sociedade como um todo\".",
                     "imagens": [
                         "bs_01.jpg",
                         "bs_02.jpg"
@@ -326,7 +326,7 @@
                     "lat": -23.329346,
                     "lng": -51.194513,
                     "titulo": "Curso Especial Pré-Vestibular",
-                    "descricao": "<p></p>",
+                    "descricao": null,
                     "imagens": []
                 },
                 {
@@ -334,7 +334,7 @@
                     "lat": -23.32781,
                     "lng": -51.195269,
                     "titulo": "Coordenadoria de Processo Seletivo",
-                    "descricao": "<p>O COPS é a Coordenadoria que cuida de todo tipo de processo seletivo dentro da universidade, como o vestibular.</p>",
+                    "descricao": "O COPS é a Coordenadoria que cuida de todo tipo de processo seletivo dentro da universidade, como o vestibular.",
                     "imagens": [
                         "hc_01.jpg"
                     ]
@@ -344,7 +344,7 @@
                     "lat": -23.3260341,
                     "lng": -51.2035615,
                     "titulo": "Capela",
-                    "descricao": "<p>A Capela Ecumênica da UEL é uma réplica da primeira capela erguida em Londrina, em 1934, onde hoje está a Catedral da cidade. A Capela da UEL, além de ser um resgate histórico e arquitetônico, tem a importância de ser um espaço para a meditação e recolhimento espiritual.</p>",
+                    "descricao": "A Capela Ecumênica da UEL é uma réplica da primeira capela erguida em Londrina, em 1934, onde hoje está a Catedral da cidade. A Capela da UEL, além de ser um resgate histórico e arquitetônico, tem a importância de ser um espaço para a meditação e recolhimento espiritual.",
                     "imagens": [
                         "capela_01.jpg",
                         "capela_02.jpg"
@@ -355,7 +355,7 @@
                     "lat": -23.324986,
                     "lng": -51.1957852,
                     "titulo": "Clínica Psicológica",
-                    "descricao": "<p>A Clínica Psicológica da Universidade Estadual de Londrina - UEL configura-se como um serviço-escola de Psicologia ligado ao curso de graduação em Psicologia da referida universidade. Tal serviço congrega ações dos departamentos Psicologia Geral e Análise do Comportamento (PGAC), Psicologia e Psicanálise (PPSIC) e Psicologia Social e Institucional (PSI), por meio de atividades ofertadas em estágios curriculares, projetos de ensino, pesquisa e extensão.</p><p>População-alvo: comunidade interna e externa à UEL, em suas diferentes faixas etárias (crianças, adolescentes, adultos e idosos), beneficiários do Sistema Único de Saúde.</p><p>Serviços oferecidos: psicoterapia individual de crianças, adolescentes, adultos e idosos. Demais atividades, tais como avaliação psicológica, psicoterapia de grupo, casal e família, dentre outros são oferecidos por meio de projetos de ensino, pesquisa e extensão, conforme interesse e disponibilidade de docentes e pesquisadores da Universidade Estadual de Londrina.</p>",
+                    "descricao": "A Clínica Psicológica da Universidade Estadual de Londrina - UEL configura-se como um serviço-escola de Psicologia ligado ao curso de graduação em Psicologia da referida universidade. Tal serviço congrega ações dos departamentos Psicologia Geral e Análise do Comportamento (PGAC), Psicologia e Psicanálise (PPSIC) e Psicologia Social e Institucional (PSI), por meio de atividades ofertadas em estágios curriculares, projetos de ensino, pesquisa e extensão.População-alvo: comunidade interna e externa à UEL, em suas diferentes faixas etárias (crianças, adolescentes, adultos e idosos), beneficiários do Sistema Único de Saúde.Serviços oferecidos: psicoterapia individual de crianças, adolescentes, adultos e idosos. Demais atividades, tais como avaliação psicológica, psicoterapia de grupo, casal e família, dentre outros são oferecidos por meio de projetos de ensino, pesquisa e extensão, conforme interesse e disponibilidade de docentes e pesquisadores da Universidade Estadual de Londrina.",
                     "imagens": [
                         "clinicapsi_01.jpg",
                         "clinicapsi_02.jpg",
@@ -367,7 +367,7 @@
                     "lat": -23.3276288,
                     "lng": -51.2011696,
                     "titulo": "Diretório Central dos Estudantes",
-                    "descricao": "<p>Diretório Central dos Estudantes (DCE), é a entidade de máxima representatividade dos estudantes da Universidade Estadual de Londrina. O DCE é uma entidade independente, apartidária, livre de preconceitos religiosos, políticos e de cor, é formada por todos os alunos regularmente matriculados na UEL e pelos Centros Acadêmicos de seus cursos. Sua função principal é representar os alunos da UEL e velar pelos seus interesses, construindo uma universidade verdadeiramente gratuita e de qualidade.</p>",
+                    "descricao": "Diretório Central dos Estudantes (DCE), é a entidade de máxima representatividade dos estudantes da Universidade Estadual de Londrina. O DCE é uma entidade independente, apartidária, livre de preconceitos religiosos, políticos e de cor, é formada por todos os alunos regularmente matriculados na UEL e pelos Centros Acadêmicos de seus cursos. Sua função principal é representar os alunos da UEL e velar pelos seus interesses, construindo uma universidade verdadeiramente gratuita e de qualidade.",
                     "imagens": [
                         "dce_01.jpg",
                         "dce_02.jpg"
@@ -378,7 +378,7 @@
                     "lat": -23.3286061,
                     "lng": -51.2002543,
                     "titulo": "Departamento de Clínica Veterinárias",
-                    "descricao": "<p>O curso de Medicina Veterinária da UEL está envolvido em projetos na área social que visam apoiar, entre outros, o pequeno produtor rural de nossa região. Ao mesmo tempo em que seus professores proferem palestras em eventos regionais, nacionais e internacionais, tamb�m est�o intensamente envolvidos com processos de atualização, transferência de tecnologia e educação continuada a técnicos de campo e produtores rurais. Este trabalho atende principalmente cooperativas e associações de produtores. São desenvolvidos programas de extensão à comunidade educando-se propriet�rios de animais de estimação quanto a cuidados com cães e gatos, prevenção de doenças transmissíveis e posse responsável de animais de companhia.</p><p>O Hospital Veterinário (HV), criado em 09 de setembro de 1976, com atendimento de Pronto-Socorro 24 horas, atende à comunidade ininterruptamente durante todo o ano. Este serviço médico, cirúrgico e de diagnóstico laboratorial atende a grandes e pequenos animais. A área de abrangência das atividades de prestação de serviços do HV há muito não mais se restringe à região norte e mesmo ao Estado do Paraná. Somente em 2000 foram realizados 67.371 procedimentos com casos provenientes de 11 Estados da Federação.</p>",
+                    "descricao": "O curso de Medicina Veterinária da UEL está envolvido em projetos na área social que visam apoiar, entre outros, o pequeno produtor rural de nossa região. Ao mesmo tempo em que seus professores proferem palestras em eventos regionais, nacionais e internacionais, tamb�m est�o intensamente envolvidos com processos de atualização, transferência de tecnologia e educação continuada a técnicos de campo e produtores rurais. Este trabalho atende principalmente cooperativas e associações de produtores. São desenvolvidos programas de extensão à comunidade educando-se propriet�rios de animais de estimação quanto a cuidados com cães e gatos, prevenção de doenças transmissíveis e posse responsável de animais de companhia.O Hospital Veterinário (HV), criado em 09 de setembro de 1976, com atendimento de Pronto-Socorro 24 horas, atende à comunidade ininterruptamente durante todo o ano. Este serviço médico, cirúrgico e de diagnóstico laboratorial atende a grandes e pequenos animais. A área de abrangência das atividades de prestação de serviços do HV há muito não mais se restringe à região norte e mesmo ao Estado do Paraná. Somente em 2000 foram realizados 67.371 procedimentos com casos provenientes de 11 Estados da Federação.",
                     "imagens": [
                         "vet_01.jpg"
                     ]
@@ -388,7 +388,7 @@
                     "lat": -23.329488,
                     "lng": -51.194803,
                     "titulo": "Editora da Universidade Estadual de Londrina",
-                    "descricao": "<p>A EDUEL, Editora da Universidade Estadual de Londrina, foi criada em 1995. Além de publicar os livros, à Editora cabe também o papel de distribuí-los. Para a realização dessa tarefa, a EDUEL trabalha, em parceria, com livrarias e distribuidores de diversas regiões do país, tais como Livraria Cultura, Loyola Distribuidora, Asteca Distribuidora, Book Partners, Suzane Bach, Leitura Dinâmica, Books Online dentre outros. A EDUEL conta ainda com uma livraria, que disponibiliza e comercializa seus livros, bem como os livros de outras editoras universitárias e comerciais.</p>",
+                    "descricao": "A EDUEL, Editora da Universidade Estadual de Londrina, foi criada em 1995. Além de publicar os livros, à Editora cabe também o papel de distribuí-los. Para a realização dessa tarefa, a EDUEL trabalha, em parceria, com livrarias e distribuidores de diversas regiões do país, tais como Livraria Cultura, Loyola Distribuidora, Asteca Distribuidora, Book Partners, Suzane Bach, Leitura Dinâmica, Books Online dentre outros. A EDUEL conta ainda com uma livraria, que disponibiliza e comercializa seus livros, bem como os livros de outras editoras universitárias e comerciais.",
                     "imagens": []
                 },
                 {
@@ -396,7 +396,7 @@
                     "lat": -23.3242257,
                     "lng": -51.1948409,
                     "titulo": "Hospital das Clinicas",
-                    "descricao": "<p>O Ambulatório de Especialidades (AEHU) está vinculado ao Hospital Universitário (HU) e destina-se ao atendimento ambulatorial dos pacientes. Para isto, conta com equipes de  profissionais das áreas de Medicina, Enfermagem, Nutrição, Serviço Social, Psicologia, Farmácia e Bioquímica e Fisioterapia.</p>",
+                    "descricao": "O Ambulatório de Especialidades (AEHU) está vinculado ao Hospital Universitário (HU) e destina-se ao atendimento ambulatorial dos pacientes. Para isto, conta com equipes de  profissionais das áreas de Medicina, Enfermagem, Nutrição, Serviço Social, Psicologia, Farmácia e Bioquímica e Fisioterapia.",
                     "imagens": [
                         "hc_01.jpg"
                     ]
@@ -406,7 +406,7 @@
                     "lat": -23.3260142,
                     "lng": -51.2005482,
                     "titulo": "Livraria Eduel",
-                    "descricao": "<p>A EDUEL, Editora da Universidade Estadual de Londrina, foi criada em 1995. Além de publicar os livros, à Editora cabe também o papel de distribuí-los. Para a realização dessa tarefa, a EDUEL trabalha, em parceria, com livrarias e distribuidores de diversas regiões do país, tais como Livraria Cultura, Loyola Distribuidora, Asteca Distribuidora, Book Partners, Suzane Bach, Leitura Dinâmica, Books Online dentre outros. A EDUEL conta ainda com uma livraria, que disponibiliza e comercializa seus livros, bem como os livros de outras editoras universitárias e comerciais.</p><p>Como política de distribuição e de comercialização de seus livros, a EDUEL participa tamb�m de feiras e de eventos de relevância nacional, como Encontros da SBPC, ANPUH, ANPED, ANPOLL, ANPOCS, Bienais do Livro de São Paulo e do Rio de Janeiro, Feira do Livro da UFPR, Feira do Livro da USP entre outros. Esta participação ocorre de forma direta ou por meio da Associação Brasileira de Editoras Universitárias (ABEU), à qual a EDUEL está filiada. Além disso, recentemente, a EDUEL firmou acordo com a SciELO Livros para indexação, publicação, distribuição e comercialização de livros on-line.</p><p>A Eduel também mantém seu próprio sítio eletrônico no qual atualiza as informações do seu catálogo e sobre seus lançamentos. Outro canal de divulgação são as revistas especializadas, indicadas pelo próprio autor, os jornais e os espaços culturais no rádio e na televisão.</p>",
+                    "descricao": "A EDUEL, Editora da Universidade Estadual de Londrina, foi criada em 1995. Além de publicar os livros, à Editora cabe também o papel de distribuí-los. Para a realização dessa tarefa, a EDUEL trabalha, em parceria, com livrarias e distribuidores de diversas regiões do país, tais como Livraria Cultura, Loyola Distribuidora, Asteca Distribuidora, Book Partners, Suzane Bach, Leitura Dinâmica, Books Online dentre outros. A EDUEL conta ainda com uma livraria, que disponibiliza e comercializa seus livros, bem como os livros de outras editoras universitárias e comerciais.Como política de distribuição e de comercialização de seus livros, a EDUEL participa tamb�m de feiras e de eventos de relevância nacional, como Encontros da SBPC, ANPUH, ANPED, ANPOLL, ANPOCS, Bienais do Livro de São Paulo e do Rio de Janeiro, Feira do Livro da UFPR, Feira do Livro da USP entre outros. Esta participação ocorre de forma direta ou por meio da Associação Brasileira de Editoras Universitárias (ABEU), à qual a EDUEL está filiada. Além disso, recentemente, a EDUEL firmou acordo com a SciELO Livros para indexação, publicação, distribuição e comercialização de livros on-line.A Eduel também mantém seu próprio sítio eletrônico no qual atualiza as informações do seu catálogo e sobre seus lançamentos. Outro canal de divulgação são as revistas especializadas, indicadas pelo próprio autor, os jornais e os espaços culturais no rádio e na televisão.",
                     "imagens": [
                         "eduel_01.jpg"
                     ]
@@ -416,7 +416,7 @@
                     "lat": -23.3263613,
                     "lng": -51.1973161,
                     "titulo": "Memorial América Latina",
-                    "descricao": "<p></p>",
+                    "descricao": null,
                     "imagens": []
                 },
                 {
@@ -424,7 +424,7 @@
                     "lat": -23.3271004,
                     "lng": -51.1944189,
                     "titulo": "Pró-reitoria de Recursos Humanos",
-                    "descricao": "<p>A PRORH é um órgão vinculado à Reitoria que tem por finalidade atuar nas políticas de gestão de pessoas, pela interação sistêmica e estratégica dos agentes públicos vinculados à UEL, para atender demandas institucionais, em consonência com as diretrizes governamentais.</p>",
+                    "descricao": "A PRORH é um órgão vinculado à Reitoria que tem por finalidade atuar nas políticas de gestão de pessoas, pela interação sistêmica e estratégica dos agentes públicos vinculados à UEL, para atender demandas institucionais, em consonência com as diretrizes governamentais.",
                     "imagens": [
                         "rh_01.jpg"
                     ]
@@ -434,7 +434,7 @@
                     "lat": -23.3276422,
                     "lng": -51.1953293,
                     "titulo": "Pró-reitoria de graduação",
-                    "descricao": "<p></p>",
+                    "descricao": null,
                     "imagens": [
                         "prograd_01.jpg",
                         "prograd_02.jpg"
@@ -445,7 +445,7 @@
                     "lat": -23.3281432,
                     "lng": -51.2025911,
                     "titulo": "Ramo Estudantil - IEEE",
-                    "descricao": "<p> O Ramo Estudantil IEEE-UEL é uma entidade colaborativa acadêmica, atualmente com voluntários dos cursos de Ciência da Computação, Engenharia Civil e Engenharia Elétrica. O Ramo desenvolve projetos científicos nas áreas de Robótica, IoT, Computação, Processamento de Sinais, e eletrônica. Como também organiza cursos e eventos nas áreas de tecnologia e gestão. O Ramo UEL conta também com o WIE (Women in Engineering) e um capítulo do RAS (Robotics and Automation Society), um do CS (Computer Society) e um do PES (Power and Energy Society).</p>",
+                    "descricao": "O Ramo Estudantil IEEE-UEL é uma entidade colaborativa acadêmica, atualmente com voluntários dos cursos de Ciência da Computação, Engenharia Civil e Engenharia Elétrica. O Ramo desenvolve projetos científicos nas áreas de Robótica, IoT, Computação, Processamento de Sinais, e eletrônica. Como também organiza cursos e eventos nas áreas de tecnologia e gestão. O Ramo UEL conta também com o WIE (Women in Engineering) e um capítulo do RAS (Robotics and Automation Society), um do CS (Computer Society) e um do PES (Power and Energy Society).",
                     "imagens": [
                         "ramo_01.jpg",
                         "ramo_02.jpg",
@@ -459,7 +459,7 @@
                     "lat": -23.325795,
                     "lng": -51.2005934,
                     "titulo": "SEBEC - Serviço de Bem Estar à Comunidade",
-                    "descricao": "<p>As ações desenvolvidas pelo SEBEC - Serviço de Bem Estar à Comunidade são multiprofissionais sustentadas por uma política de trabalho onde as diretrizes básicas estão direcionadas à qualidade, a agilização e a humanização que no conjunto expressam em atendimento global para a melhoria da qualidade de vida das pessoas./p>",
+                    "descricao": "As ações desenvolvidas pelo SEBEC - Serviço de Bem Estar à Comunidade são multiprofissionais sustentadas por uma política de trabalho onde as diretrizes básicas estão direcionadas à qualidade, a agilização e a humanização que no conjunto expressam em atendimento global para a melhoria da qualidade de vida das pessoas.",
                     "imagens": [
                         "sebec_01.jpg",
                         "sebec_02.jpg"

@@ -1,3 +1,5 @@
+export type Data = Record<'categorias', Array<Categoria>>;
+
 export interface Categoria {
     id: string;
     titulo: string;

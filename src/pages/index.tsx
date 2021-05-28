@@ -1,20 +1,22 @@
 import Head from 'next/head'
 import { FunctionComponent } from 'react'
 
-import { Categoria } from '../interfaces/categoria.interface'
+import { Data } from '../interfaces/categoria.interface'
 import Footer from '../components/Footer'
-import styles from '../styles/Home.module.scss'
-import _data from '../content/data.json'
 import Header from '../components/Header'
 
+import _data from '../content/data.json'
+
+import styles from '../styles/Home.module.scss'
+
 const Home: FunctionComponent = () => {
-    const data = _data as Record<'categorias', Array<Categoria>>;
+    const data = _data as Data;
 
     return (
         <div>
             <Head>
-                <title>Feira de Profissões - IEEE-UEL</title>
-                <meta name="description" content="Feira de Profissões - IEEE-UEL" />
+                <title>Guia UEL</title>
+                <meta name="description" content="Guia UEL" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
