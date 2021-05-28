@@ -1,0 +1,17 @@
+@import './variables';
+
+.footer {
+    background-color: $accent;
+    color: #ffffff;
+
+    .foot {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 20px 0;
+        text-align: center;
+
+        .easter-egg {
+            color: lighten($accent, 1%);
+        }
+    }
+}
