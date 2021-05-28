@@ -1,0 +1,144 @@
+@import "../variables";
+
+.container {
+    max-width: 800px;
+    margin: 10px auto;
+
+    p {
+        margin: 10px 0 0;
+
+        @media (max-width: 811px) {
+            margin: 10px;
+        }
+    }
+
+    #map {
+        border-radius: 10px;
+        width: 100%;
+        height: 500px;
+
+        background-color: pink;
+    }
+
+    .aviso {
+        text-align: center;
+    }
+
+    .descricao {
+        p {
+            margin: 5px 0 10px;
+        }
+    }
+
+    .conteudo {
+        position: relative;
+    }
+
+    .btn-salas {
+        box-sizing: border-box;
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        z-index: 1;
+        min-height: 48px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+
+        color: #ffffff;
+        padding: 10px 15px;
+        background-color: $accent;
+        border: none;
+        outline: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition:
+            50ms all ease-in-out,
+            500ms opacity ease-in-out;
+        text-align: center;
+
+        &:hover {
+            background-color: darken($accent, 5%);
+        }
+
+        &:active {
+            background-color: $accent;
+        }
+
+        &.ativo {
+            $inativo: #c0392b;
+            background-color: $inativo;
+
+            &:hover {
+                background-color: darken($inativo, 5%);
+            }
+
+            &:active {
+                background-color: $inativo;
+            }
+        }
+    }
+}
+
+.menu {
+    background-color: $accent;
+    position: fixed;
+    top: 0px;
+    right: -35%;
+    bottom: 0px;
+    width: 33.3%;
+    box-shadow: -2px 0px 5px 1px rgba(0, 0, 0, 0.3);
+    transition: 500ms all cubic-bezier(0.5, 0, 0, 1);
+    overflow-y: scroll;
+    color: #ffffff;
+    z-index: 1;
+
+    &.open {
+        right: 0%;
+    }
+
+    @media screen and (max-width: 425px) {
+        width: 66%;
+        right: -68%;
+    }
+
+    .menu-container {
+        margin: 75px 0 0 20px;
+
+        ul {
+            list-style: none;
+            margin: 0px;
+            padding: 0;
+
+            li {
+                padding: 5px 0;
+            }
+
+            a {
+                padding: 5px;
+                color: #ffffff;
+                text-decoration: none;
+                transition: 100ms all;
+
+                &:hover {
+                    color: darken($accent, 10%);
+                }
+            }
+        }
+
+        h3 {
+            font-size: 1em;
+            margin: 0 0 5px 0;
+        }
+
+        .where-to-go {
+            padding-left: 10px;
+
+            .wtg-link {
+                padding-left: 10px;
+            }
+        }
+    }
+}

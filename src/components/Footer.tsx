@@ -1,6 +1,6 @@
 import { FunctionComponent } from 'react';
 
-import styles from '../styles/Footer.module.scss';
+import styles from '../styles/components/Footer.module.scss';
 
 const Footer: FunctionComponent = () => <footer className={styles.footer}>
     <div className={styles.foot}>

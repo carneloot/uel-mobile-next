@@ -1,0 +1,28 @@
+.icon {
+    svg,
+    .b1,
+    .b2,
+    .b3 {
+        transition: 200ms all ease-in-out;
+    }
+
+    &.open {
+        // position: fixed;
+        // top: 18px;
+        // right: 0;
+
+        // .b1 {
+        //     transform: translate(-3.4px, 3.4px) rotate(45deg);
+        //     transform-origin: center center;
+        // }
+
+        // .b2 {
+        //     opacity: 0;
+        // }
+
+        // .b3 {
+        //     transform: rotate(-45deg);
+        //     transform-origin: center center;
+        // }
+    }
+}
