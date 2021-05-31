@@ -6,11 +6,15 @@ import { FunctionComponent, useEffect, useRef, useState } from 'react';
 import Footer from '../../components/Footer';
 import Header from '../../components/Header';
 
-import { Data, Local } from '../../interfaces/categoria.interface';
+import { Categoria, Data, Local } from '../../interfaces/categoria.interface';
 
 import _data from '../../content/data.json';
 
 import styles from '../../styles/mapa/Mapa.module.scss';
+
+interface MenuItem extends Pick<Categoria, 'id' | 'titulo'> {
+    isLink: boolean;
+}
 
 const Mapa: FunctionComponent<Local> = (local) => {
     const router = useRouter();
@@ -29,17 +33,29 @@ const Mapa: FunctionComponent<Local> = (local) => {
     }
 
     const showImages = false; // !!local.imagens?.length ?? false;
-
     const data = _data as Data;
 
-    const outrosLocais = data.categorias
-        .reduce((acc, curr) => acc.concat(curr.locais), [] as Local[])
-        .filter(outro => outro.id !== local.id);
-
+    const menuItems: MenuItem[] = [];
     let dest: Local;
 
-    if (router.query.dest) {
-        dest = outrosLocais.find(outro => outro.id === router.query.dest);
+    for (const categoria of data.categorias) {
+        menuItems.push({
+            id: categoria.id,
+            titulo: categoria.titulo,
+            isLink: false,
+        });
+
+        for (const local of categoria.locais) {
+            menuItems.push({
+                id: local.id,
+                titulo: local.titulo,
+                isLink: true,
+            });
+
+            if (!dest && router.query?.dest === local.id) {
+                dest = local;
+            }
+        }
     }
 
     return <div>
@@ -115,11 +131,14 @@ const Mapa: FunctionComponent<Local> = (local) => {
                         <h3>Onde ir:</h3>
                         <div className={styles['where-to-go']}>
                             <ul>
-                                {outrosLocais.map(outroLocal => (
-                                    <li key={outroLocal.id} className={styles['wtg-link']}>
-                                        <a href="#" onClick={() => gotoDest(outroLocal.id)}>
-                                            {outroLocal.titulo}
-                                        </a>
+                                {menuItems.map(item => (
+                                    <li key={item.id} className={item.isLink ? styles['wtg-link'] : styles.cat}>
+                                        {!item.isLink && item.titulo}
+                                        {item.isLink && (
+                                            <a href="#" onClick={() => gotoDest(item.id)}>
+                                                {item.titulo}
+                                            </a>
+                                        )}
                                     </li>
                                 ))}
                             </ul>
