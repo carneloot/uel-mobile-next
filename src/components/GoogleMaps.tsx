@@ -1,7 +1,7 @@
 import { Loader } from '@googlemaps/js-api-loader';
 import { FunctionComponent, useEffect, useRef } from 'react';
 
-import styles from '../styles/components/GoogleMaps.module.scss';
+import styles from '@styles/components/GoogleMaps.module.scss';
 
 interface GoogleMapsProps {
     className?: string;

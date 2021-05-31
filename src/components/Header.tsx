@@ -1,9 +1,9 @@
 import Image from 'next/image'
-import { FunctionComponent, useState } from 'react';
+import { FunctionComponent } from 'react';
 
 import MenuIcon from './MenuIcon';
 
-import styles from '../styles/components/Header.module.scss';
+import styles from '@styles/components/Header.module.scss';
 
 interface HeaderProps {
     showMenuButton?: boolean;

@@ -1,6 +1,6 @@
 import { FunctionComponent } from 'react';
 
-import styles from '../styles/components/MenuIcon.module.scss'
+import styles from '@styles/components/MenuIcon.module.scss'
 
 type MenuIconProps = Partial<Record<'opened', boolean>>;
 

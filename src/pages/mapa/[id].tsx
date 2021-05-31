@@ -3,15 +3,15 @@ import { useRouter } from 'next/router';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { FunctionComponent, useState } from 'react';
 
-import Footer from '../../components/Footer';
-import Header from '../../components/Header';
-import GoogleMaps from '../../components/GoogleMaps';
+import Footer from '@components/Footer';
+import Header from '@components/Header';
+import GoogleMaps from '@components/GoogleMaps';
 
-import { Categoria, Data, Local } from '../../interfaces/categoria.interface';
+import { Categoria, Data, Local } from '@interfaces/categoria.interface';
 
-import _data from '../../content/data.json';
+import _data from '@content/data.json';
 
-import styles from '../../styles/mapa/Mapa.module.scss';
+import styles from '@styles/mapa/Mapa.module.scss';
 
 interface MenuItem extends Pick<Categoria, 'id' | 'titulo'> {
     isLink: boolean;

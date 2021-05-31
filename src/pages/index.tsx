@@ -1,13 +1,13 @@
 import Head from 'next/head'
 import { FunctionComponent } from 'react'
 
-import { Data } from '../interfaces/categoria.interface'
-import Footer from '../components/Footer'
-import Header from '../components/Header'
+import { Data } from '@interfaces/categoria.interface'
+import Footer from '@components/Footer'
+import Header from '@components/Header'
 
-import _data from '../content/data.json'
+import _data from '@content/data.json'
 
-import styles from '../styles/Home.module.scss'
+import styles from '@styles/Home.module.scss'
 
 const Home: FunctionComponent = () => {
     const data = _data as Data;
