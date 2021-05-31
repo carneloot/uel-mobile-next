@@ -1,16 +1,17 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 import { GetStaticPaths, GetStaticProps } from 'next';
-import { FunctionComponent, useEffect, useRef, useState } from 'react';
+import { FunctionComponent, useState } from 'react';
 
-import Footer from '../../components/Footer';
-import Header from '../../components/Header';
+import Footer from '@components/Footer';
+import Header from '@components/Header';
+import GoogleMaps from '@components/GoogleMaps';
 
-import { Categoria, Data, Local } from '../../interfaces/categoria.interface';
+import { Categoria, Data, Local } from '@interfaces/categoria.interface';
 
-import _data from '../../content/data.json';
+import _data from '@content/data.json';
 
-import styles from '../../styles/mapa/Mapa.module.scss';
+import styles from '@styles/mapa/Mapa.module.scss';
 
 interface MenuItem extends Pick<Categoria, 'id' | 'titulo'> {
     isLink: boolean;
@@ -18,14 +19,7 @@ interface MenuItem extends Pick<Categoria, 'id' | 'titulo'> {
 
 const Mapa: FunctionComponent<Local> = (local) => {
     const router = useRouter();
-    const mapaRef = useRef<HTMLDivElement>();
     const [ menuOpened, changeMenuOpened ] = useState(false)
-
-    useEffect(() => {
-        const mapaElement = mapaRef.current;
-
-        // Load GoogleMaps
-    });
 
     const gotoDest = (dest: string) => {
         router.push({ query: { dest } }, null, { shallow: true });
@@ -60,9 +54,10 @@ const Mapa: FunctionComponent<Local> = (local) => {
 
     return <div>
         <Head>
+            <meta charSet="utf-8"/>
+            <link rel="icon" href="/favicon.ico" />
             <title>{local.titulo} - Guia UEL</title>
             <meta name="description" content={`${local.titulo} - Guia UEL`} />
-            <link rel="icon" href="/favicon.ico" />
         </Head>
 
         <Header
@@ -79,7 +74,11 @@ const Mapa: FunctionComponent<Local> = (local) => {
                     </button>
                 )}
 
-                <div id={styles.map} ref={mapaRef}></div>
+                <GoogleMaps
+                    local={local}
+                    dest={dest}
+                    className={styles.map}
+                />
 
                 <h2 className={styles.aviso}>
                     Para escolher um local para ir, use o menu na direita.
