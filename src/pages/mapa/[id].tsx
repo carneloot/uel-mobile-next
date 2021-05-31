@@ -75,7 +75,8 @@ const Mapa: FunctionComponent<Local> = (local) => {
                 )}
 
                 <GoogleMaps
-                    center={{ lat: local.lat, lng: local.lng }}
+                    local={local}
+                    dest={dest}
                     className={styles.map}
                 />
 
