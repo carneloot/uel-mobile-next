@@ -8,12 +8,14 @@
         "start": "next start"
     },
     "dependencies": {
+        "@googlemaps/js-api-loader": "^1.11.4",
         "next": "10.2.3",
         "react": "17.0.2",
         "react-dom": "17.0.2",
         "sass": "^1.34.0"
     },
     "devDependencies": {
+        "@types/google.maps": "^3.44.6",
         "@types/react": "^17.0.8",
         "typescript": "^4.3.2"
     }
