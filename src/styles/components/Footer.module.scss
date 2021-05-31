@@ -3,15 +3,11 @@
 .footer {
     background-color: $accent;
     color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
 
-    .foot {
-        margin-left: 10px;
-        margin-right: 10px;
-        padding: 20px 0;
-        text-align: center;
-
-        .easter-egg {
-            color: lighten($accent, 1%);
-        }
+    p {
+        margin: 0;
+        margin-bottom: 10px;
     }
 }

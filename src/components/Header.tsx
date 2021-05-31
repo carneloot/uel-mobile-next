@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import { FunctionComponent } from 'react';
 
 import MenuIcon from './MenuIcon';
@@ -17,11 +16,7 @@ const Header: FunctionComponent<HeaderProps> = ({ showMenuButton, isMenuOpened, 
     return <header>
         <nav className={styles['nav-menu']}>
             <a href="/" className={styles.logo}>
-                <Image
-                    src="/logo-ramo-texto.svg"
-                    height="75px"
-                    width="100%"
-                />
+                Guia UEL
             </a>
             {(showMenuButton ?? false) && (
                 <div className={styles['btn-menu'] + ' ' + menuOpenedClass} onClick={onClickMenu}>

@@ -3,10 +3,12 @@ import { FunctionComponent } from 'react';
 import styles from '@styles/components/Footer.module.scss';
 
 const Footer: FunctionComponent = () => <footer className={styles.footer}>
-    <div className={styles.foot}>
-        &copy; Ramo Estudantil IEEE-UEL | 2017
-        <br/><span className={styles['easter-egg']}>béééééééh</span>
-    </div>
+    <p className="copyright">
+        &copy; Matheus Carnelutt | {new Date().getFullYear()}
+    </p>
+    <p className="notice">
+        Esse site não tem relação com a Universidade Estadual de Londrina.
+    </p>
 </footer>;
 
 export default Footer;

@@ -10,9 +10,12 @@
     background-color: $accent;
     margin-bottom: 20px;
 
-    .logo img {
+    .logo {
+        color: #ffffff;
+        font-size: 2em;
+        font-weight: 700;
+        letter-spacing: 0.05em;
         margin: 10px 15px;
-        height: 75px;
     }
 
     .btn-menu {
