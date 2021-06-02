@@ -55,7 +55,7 @@ const GoogleMaps: FunctionComponent<GoogleMapsProps> = ({ local, className, dest
         loadMap();
 
         return () => {
-            loader.deleteScript();
+            loader?.deleteScript();
         }
     }, [local, dest]);
 
@@ -70,10 +70,10 @@ const GoogleMaps: FunctionComponent<GoogleMapsProps> = ({ local, className, dest
         markers.push(marker);
     }
 
-    const removeMarker = (index: number) => {
-        markers[index].setMap(null);
-        markers.splice(index, 1);
-    }
+    // const removeMarker = (index: number) => {
+    //     markers[index].setMap(null);
+    //     markers.splice(index, 1);
+    // }
 
     const setRoute = async (from: google.maps.LatLngLiteral, to: google.maps.LatLngLiteral, travelMode = google.maps.TravelMode.WALKING) => {
         return new Promise<void>(resolve => {
@@ -92,7 +92,7 @@ const GoogleMaps: FunctionComponent<GoogleMapsProps> = ({ local, className, dest
         })
     }
 
-    return <div className={[className ?? '', styles.map].join(' ')} ref={mapRef}></div>;
+    return <div className={[className ?? '', styles.map].join(' ')} ref={mapRef} />;
 }
 
 export default GoogleMaps;
