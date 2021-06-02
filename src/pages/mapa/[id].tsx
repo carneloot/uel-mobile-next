@@ -39,15 +39,19 @@ const Mapa: FunctionComponent<Local> = (local) => {
             isLink: false,
         });
 
-        for (const local of categoria.locais) {
+        for (const outroLocal of categoria.locais) {
+            if (outroLocal.id === local.id) {
+                continue;
+            }
+
             menuItems.push({
-                id: local.id,
-                titulo: local.titulo,
+                id: outroLocal.id,
+                titulo: outroLocal.titulo,
                 isLink: true,
             });
 
-            if (!dest && router.query?.dest === local.id) {
-                dest = local;
+            if (!dest && router.query?.dest === outroLocal.id) {
+                dest = outroLocal;
             }
         }
     }
